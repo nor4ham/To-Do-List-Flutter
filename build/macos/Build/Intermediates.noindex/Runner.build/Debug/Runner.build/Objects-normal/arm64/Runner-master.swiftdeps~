@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "f9ceda0e0cb9c0d4b0fbb574da43193fb2afb48d6af64d28fcc4d1d007e6fde8"
+build_start_time: [1665026753, 568380832]
+build_end_time: [1665026753, 594107151]
+inputs:
+  "/Users/norahmohammed/Desktop/fultter/to_do_list/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1665026739, 958047628]
+  "/Users/norahmohammed/Desktop/fultter/to_do_list/macos/Runner/AppDelegate.swift": !private [1664393672, 0]
+  "/Users/norahmohammed/Desktop/fultter/to_do_list/macos/Runner/MainFlutterWindow.swift": !private [1664393672, 0]
